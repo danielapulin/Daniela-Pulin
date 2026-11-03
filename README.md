@@ -7,7 +7,7 @@
 
 <!-- Badges personalizados con tu paleta pastel -->
 <p align="center">
-  <a href="https://linkedin.com">
+  <a href="www.linkedin.com/in/daniela-pulin">
     <img src="https://img.shields.io/badge/LinkedIn-98DDCA?style=for-the-badge&logo=linkedin&logoColor=2D3748" />
   </a>
   <a href="mailto:tu-email@ejemplo.com">
